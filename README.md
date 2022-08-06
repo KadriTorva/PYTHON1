@@ -56,3 +56,5 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     `{ me coding yee }` 
 
   
+  ![200](https://user-images.githubusercontent.com/110715037/183246965-9ff8020e-befb-475f-812e-e4199ba5e561.gif)
+
