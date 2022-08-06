@@ -3,6 +3,7 @@
 Repository for learning Python in course DataScienceRemoteEE2
 **This is for learing bold**
 ~~Cats are better than dogs~~ 😂
+<br>
 X<sup>2<sup>
   
   
@@ -11,6 +12,7 @@ X<sup>2<sup>
  I need to highlight these <mark>very important words</mark>.
   
 H<sub>2</sub>0
+<hr>
   
 - [x] Do new repository
 - [ ] Do a new README file 
